@@ -1,0 +1,11 @@
+.site-template input[type="radio"] {
+	float: left;
+}
+
+.site-template > div {
+	margin-top: 20px;
+}
+
+.site-template-content {
+	margin-left: 40px;
+}
